@@ -11,6 +11,7 @@ Het werkt op iPhone en iPad, ook zonder internet.
 - **Tunnel**: de trein rijdt met een dier de tunnel in. Tik op de tunnel: kiekeboe! Later raad je eerst wie erin zit.
 - **Wasstraat**: wrijf met je vinger de modder van de auto.
 - **Spoor**: leg de brugjes in de gaten, dan kan de trein erlangs.
+- **Tellen**: tik elk dier of elke auto aan en tel mee: één, twee, drie… tot vijf. Daarna tellen jullie samen nog een keer.
 
 ## Welterusten
 
