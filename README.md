@@ -8,6 +8,14 @@ Het werkt op iPhone en iPad, ook zonder internet.
 - **Trein**: sleep de dieren in de wagons. Als ze er allemaal in zitten, rijdt de trein weg.
 - **Garage**: breng elke auto naar de garage met dezelfde kleur.
 - **Schaduw**: zet elk dier op zijn eigen schaduw.
+- **Tunnel**: de trein rijdt met een dier de tunnel in. Tik op de tunnel: kiekeboe! Later raad je eerst wie erin zit.
+- **Wasstraat**: wrijf met je vinger de modder van de auto.
+- **Spoor**: leg de brugjes in de gaten, dan kan de trein erlangs.
+
+## Welterusten
+
+Met de maan (linksboven, of na een spelletje) breng je de dieren naar bed. Je kind doet het licht uit en het scherm wordt donker.
+Zo wordt stoppen een vast ritueel.
 
 Kan je kind nog niet slepen? Tik dan eerst op een dier of auto en daarna op de plek.
 

@@ -1,6 +1,6 @@
 // Bewaart de app op het apparaat zodat hij zonder internet werkt.
 // Verhoog VERSION bij elke wijziging, dan haalt het apparaat de nieuwe bestanden op.
-const VERSION = 'tvb-2';
+const VERSION = 'tvb-3';
 const FILES = [
   './',
   'index.html',
